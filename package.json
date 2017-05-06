@@ -1,0 +1,22 @@
+{
+  "name": "twitter-bot-course",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giuliannosbrugnera/twitter-bot-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giuliannosbrugnera/twitter-bot-course/issues"
+  },
+  "homepage": "https://github.com/giuliannosbrugnera/twitter-bot-course#readme",
+  "dependencies": {
+    "twit": "^2.2.5"
+  }
+}
